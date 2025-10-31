@@ -1,5 +1,5 @@
 # 💫 About Me:
-salut je m'appelle MOUN-RE Maxime<br>Je suis étudiant en deuxième cycle (niveau Master) de Big Data à l'Université Catholique d'Afrique de l'Ouest - Unité Universitaire au Togo.
+salut je m'appelle MOUN-RE Maxime<br>Je suis en deuxième cycle (niveau Master) de Big Data à l'Université Catholique d'Afrique de l'Ouest - Unité Universitaire au Togo.
 
 
 ## 🌐 Socials:
