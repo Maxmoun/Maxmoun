@@ -13,7 +13,8 @@ salut je m'appelle MOUN-RE Maxime<br>Je suis en deuxième cycle (niveau Master) 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maxmoun&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Maxmoun&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxmoun&stats_format=bytes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxmoun)](https://github.com/Maxmoun/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
